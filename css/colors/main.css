@@ -285,13 +285,13 @@ a.button.border {
 
 .opening-hours.summary li:hover,
 .opening-hours.summary li.total-costs span {
-    color: #f91742
+    color: #1ec755
 }
 
 .payment-tab-trigger>input:checked~label::before {
-    border-color: #f91742
+    border-color: #1ec755
 }
 
 .payment-tab-trigger>input:checked~label::after {
-    background-color: #f91742
+    background-color: #1ec755
 }
