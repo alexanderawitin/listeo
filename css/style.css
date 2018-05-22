@@ -2,8 +2,7 @@
 @import "bootstrap-grid.css";
 @import "icons.css";
 @import "plugins/revolutionslider.css";
-@import 'https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700';
-@import 'https://fonts.googleapis.com/css?family=Open+Sans:500,600,700';
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
 
 input,
 input[type=text],
@@ -1553,7 +1552,6 @@ em.mm-counter+a.mm-fullsubopen+span {
     line-height: 19px;
     font-size: 11px;
     font-weight: 500;
-    font-family: "Open Sans"
 }
 
 .mmenu-trigger {
@@ -1920,7 +1918,6 @@ body .pac-container {
     border-top: 0;
     box-sizing: content-box;
     margin-top: -2px;
-    font-family: Raleway
 }
 
 .main-search-input .pac-container {
@@ -4460,7 +4457,6 @@ a.mfp-gallery {
 }
 
 .qtyButtons input {
-    font-family: "Open Sans", sans-serif;
     outline: 0;
     font-size: 20px;
     text-align: center;
@@ -4516,7 +4512,6 @@ a.mfp-gallery {
     display: inline-block;
     font-size: 11px;
     font-weight: 600;
-    font-family: "Open Sans", sans-serif;
     line-height: 18px;
     text-align: center;
     position: relative;
@@ -9861,7 +9856,6 @@ section.fullwidth .listing-item-container.list-layout,
     height: 26px;
     width: 44px;
     display: inline-block;
-    font-family: "Open Sans";
     position: relative;
     border-radius: 50px;
     letter-spacing: -.5px;
@@ -9908,7 +9902,6 @@ section.fullwidth .listing-item-container.list-layout,
 
 .infoBox .numerical-rating {
     margin: 0;
-    font-family: "Open Sans"
 }
 
 .star-rating {
@@ -10457,7 +10450,6 @@ a.dashboard-responsive-nav-trigger {
 
 .dashboard-nav ul li span.nav-tag {
     background-color: rgba(255, 255, 255, .2);
-    font-family: "Open Sans";
     font-weight: 600;
     display: inline-block;
     font-size: 11px;
@@ -10607,7 +10599,6 @@ a.dashboard-responsive-nav-trigger {
     padding: 0;
     margin: 0;
     color: #fff;
-    font-family: "Open Sans";
     letter-spacing: -1px
 }
 
@@ -14262,7 +14253,7 @@ button,
 .map-box div,
 .numerical-rating .rating-counter,
 body .menu-responsive i.menu-trigger:after {
-    font-family: Raleway, helveticaneue, helvetica neue, Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", helveticaneue, helvetica neue, Helvetica, Arial, sans-serif;
     text-transform: none
 }
 

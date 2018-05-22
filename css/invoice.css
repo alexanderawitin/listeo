@@ -8,11 +8,11 @@
 /* ------------------------------------------------------------------- */
 /* Invoice Styles
 ---------------------------------------------------------------------- */
-@import url('https://fonts.googleapis.com/css?family=Raleway:400,600');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('bootstrap-grid.css');
 
 html {
-    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: none;
     font-size: 100%;
 }
