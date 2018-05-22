@@ -157,7 +157,7 @@ img.footer-logo {
 #header {
     position: relative;
     z-index: 999;
-    padding: 18px 0 8px;
+    padding-top: 8px;
     box-shadow: 0 0 8px 0 rgba(0, 0, 0, .12);
     font-size: 16px
 }
@@ -263,10 +263,6 @@ header.fullwidth .container {
     transform: translate3d(0, 0, 0);
     max-width: 120px;
     margin-top: 1px
-}
-
-#header.cloned {
-    padding: 18px 0 7px
 }
 
 .sticky-logo {
